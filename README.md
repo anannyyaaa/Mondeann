@@ -26,7 +26,7 @@ This project focuses on **UI/UX design, responsiveness, and clean layout structu
 * **HTML5** – Structure
 * **CSS3** – Styling & Layout
 * **JavaScript** – Interactivity
-* **React ** – UI logic
+* **React** – UI logic
 
 ---
 

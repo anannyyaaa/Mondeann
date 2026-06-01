@@ -83,7 +83,7 @@ This project was built to:
 
 ## 📌 Author
 
-**Ananya**
+**Ananya** - 
 Aspiring Developer 🚀
 
 ---

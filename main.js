@@ -4,6 +4,7 @@ document.querySelector('#search-icon').onclick = () =>{
     cart.classList.remove('active');
     
 };
+
 let cart = document.querySelector('.cart');
 document.querySelector('#cart-icon').onclick = () =>{
     cart.classList.toggle('active');
